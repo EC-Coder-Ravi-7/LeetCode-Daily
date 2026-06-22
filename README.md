@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3379-transformed-array) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
