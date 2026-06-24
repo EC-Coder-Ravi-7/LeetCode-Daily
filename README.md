@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3640-trionic-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
