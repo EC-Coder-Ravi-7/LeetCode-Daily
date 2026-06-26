@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
