@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [3640-trionic-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
