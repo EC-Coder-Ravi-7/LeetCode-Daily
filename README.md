@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3379-transformed-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3640-trionic-array-ii) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1070-product-sales-analysis-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
