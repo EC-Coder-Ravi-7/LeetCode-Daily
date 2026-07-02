@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1070-product-sales-analysis-iii) |
