@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3379-transformed-array) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3640-trionic-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -124,8 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
