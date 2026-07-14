@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0001-two-sum) |
 | [1288-remove-covered-intervals](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
