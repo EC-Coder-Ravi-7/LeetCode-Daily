@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0626-exchange-seats) |
