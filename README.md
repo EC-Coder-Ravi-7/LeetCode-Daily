@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -318,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
