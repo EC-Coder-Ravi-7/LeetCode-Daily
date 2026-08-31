@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Minimax
 |  |
 | ------- |
