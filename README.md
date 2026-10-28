@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
+| [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
