@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0877-stone-game) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
