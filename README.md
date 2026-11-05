@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
