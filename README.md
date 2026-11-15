@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/3364-minimum-positive-sum-subarray) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/EC-Coder-Ravi-7/LeetCode-Daily/tree/master/1927-sum-game) |
